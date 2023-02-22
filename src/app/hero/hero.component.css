@@ -1,0 +1,25 @@
+.sgLogoHeroFix,
+p {
+  pointer-events: none;
+}
+
+.bg-img {
+  background-image: url(../../assets/csm_Vertical_Farming_iStock_GettyImagesPlus-512700990_49cb384a9a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-white-custom {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.btn-outline-primary {
+  border-color: #76b041;
+  color: #76b041;
+}
+.btn-outline-primary:hover {
+  background-color: #76b041;
+  border-color: #76b041;
+  color: white;
+}/*# sourceMappingURL=hero.component.css.map */
