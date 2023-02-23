@@ -12,3 +12,14 @@ $secondary: #6c757d;
         color: $secondary;
     }
 }
+
+.btn-outline-primary {
+    border-color: $primary;
+    color: $primary;
+
+    &:hover {
+        background-color: $primary;
+        border-color: $primary;
+        color: white;
+    }
+}

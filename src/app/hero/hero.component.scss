@@ -7,22 +7,11 @@ p {
 }
 
 .bg-img {
-    background-image: url(./img/csm_Vertical_Farming_iStock_GettyImagesPlus-512700990_49cb384a9a.jpg);
+    background-image: url(https://pflanzenfabrik.de/wp-content/uploads/2021/03/vertical-farming-pfal.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .bg-white-custom {
     background-color: rgba($color: white, $alpha: 0.75);
-}
-
-.btn-outline-primary {
-    border-color: $primary;
-    color: $primary;
-
-    &:hover {
-        background-color: $primary;
-        border-color: $primary;
-        color: white;
-    }
 }
