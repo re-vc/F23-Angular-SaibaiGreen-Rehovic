@@ -1,0 +1,15 @@
+.sgLogoHeroFix,
+p {
+  pointer-events: none;
+}
+
+.bg-img {
+  background-image: url(https://pflanzenfabrik.de/wp-content/uploads/2021/03/vertical-farming-pfal.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-white-custom {
+  background-color: rgba(255, 255, 255, 0.75);
+}/*# sourceMappingURL=hero.component.css.map */

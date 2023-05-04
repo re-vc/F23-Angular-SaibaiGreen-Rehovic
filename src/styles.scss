@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+$primary: #76b041;
+$secondary: #6c757d;
+
+* {
+    user-select: none;
+}
+
+.saibaigreenLogo {
+    color: $primary;
+    &:hover {
+        color: $secondary;
+    }
+}
+
+.btn-outline-primary {
+    border-color: $primary;
+    color: $primary;
+
+    &:hover {
+        background-color: $primary;
+        border-color: $primary;
+        color: white;
+    }
+}

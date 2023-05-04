@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+.saibaigreenLogo {
+  color: #76b041;
+}
+.saibaigreenLogo:hover {
+  color: #6c757d;
+}
+
+.btn-outline-primary {
+  border-color: #76b041;
+  color: #76b041;
+}
+.btn-outline-primary:hover {
+  background-color: #76b041;
+  border-color: #76b041;
+  color: white;
+}/*# sourceMappingURL=styles.css.map */

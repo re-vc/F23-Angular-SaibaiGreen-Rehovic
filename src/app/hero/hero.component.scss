@@ -1,0 +1,17 @@
+$primary: #76b041;
+$secondary: #6c757d;
+
+.sgLogoHeroFix,
+p {
+    pointer-events: none;
+}
+
+.bg-img {
+    background-image: url(https://pflanzenfabrik.de/wp-content/uploads/2021/03/vertical-farming-pfal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg-white-custom {
+    background-color: rgba($color: white, $alpha: 0.75);
+}
